@@ -1,0 +1,86 @@
+ *{margin: 0px;padding: 0px;}
+
+/* home */
+ .home{background-image:url(images/drew-coffman-1872.jpg);height: 100vh;background-size: 100% 100%;}
+.logo{width: 15%;display: inline-block;text-align: right;}
+.nav-bar{width: 79.7%;display: inline-block;text-align:right;}
+.logo img{width: 100%;margin-left: 50px;margin-top: 10px;}
+.nav-bar li{list-style: none;padding: 7px;display:inline-block;}
+.nav-bar a{text-decoration: none;text-transform: capitalize;color: white;font-family: 'Alegreya', serif;font-weight: 400;font-size: 18px;}
+.welcome{text-align: center;color: white;margin-top: 150px;}
+.btn{display: inline-block;padding:15px 30px;margin-top: 50px; font-family: 'Alegreya Sans', sans-serif;font-weight: 700;color: white;}
+.btn1{background-color: rgb(142, 119, 84);border: 2px solid rgb(142, 119, 84);}
+.btn2{background-color: transparent;border: 2px solid white;}
+h1{font-family: 'Alegreya', serif;font-size: 76px;font-weight: 400;}
+.font22{ font-family: 'Alegreya Sans', sans-serif;font-weight: 400;font-size: 22px;}
+.font24{ font-family: 'Alegreya Sans', sans-serif;font-weight: 400;font-size: 24px;margin-top: 30px;}
+
+/* who we are */
+.collect-who{margin-top: 50px;margin-bottom: 50px;}
+.who-logo{background-color: aqua;width: 45%;display: inline-block;margin-right: 50p;margin-left: 50px;}
+.who{width: 45%;display: inline-block;vertical-align: top;padding-left: 50px;padding-bottom: 50px;}
+.who td{display: inline}
+.who-logo img{width: 100%;}
+.who img{width:8%;border-color: rgb(244, 244, 244);border-radius:50%;border: 2px solid rgb(210, 210, 210);}
+.who tr{padding-top: 30px;}
+.who h2{font-family: 'Alegreya', serif;font-size: 32px;font-weight: 400;}
+.who p{font-family: 'Alegreya Sans', sans-serif;font-weight: 400;font-size: 17px;color: rgb(104, 104, 104);}
+.who .padding{padding-top: 20px;line-height: 1.6;}
+
+/* our location */
+.location{background-color:rgb(248, 248, 248);text-align: center;}
+.location-data{width: 45%;display: inline-block;vertical-align: top;text-align: left;margin-right: 50px;margin-top: 80px;}
+.location-logo{width: 45%;display: inline-block;margin-top: 50px;}
+.location-logo img{width: 100%;}
+.location-data h2{font-family: 'Alegreya', serif;font-size: 32px;font-weight: 400;}
+.location-data p{ font-family: 'Alegreya Sans', sans-serif;font-weight: 400;font-size: 17px;color: rgb(104, 104, 104);margin-top: 30px;line-height: 1.6;}
+
+/* our baking */
+.baking{text-align: center;}
+.item{width:30%;float: left;margin-left: 30px;}
+.item img{width: 100%;}
+.baking h2{font-family: 'Alegreya', serif;font-size: 30px;font-weight: 400;margin-top: 50px;margin-bottom: 30px;}
+.item h2{font-family: 'Alegreya', serif;font-size: 22px;font-weight: 400;}
+.baking p{font-family: 'Alegreya Sans', sans-serif;font-weight: 400;font-size: 17px;color: rgb(104, 104, 104);line-height: 1.6;margin-bottom: 50px;}
+
+/* contact information */
+.contact{background-color: rgb(248, 248, 248);padding-top: 50px;padding-bottom: 50px;}
+.contact-data{width: 45%;float: left;margin-left: 30px;}
+.contact-logo{width: 45%;float: left;margin-left: 38px;}
+.contact-data li{list-style: none;}
+.contact-data h2{font-family: 'Alegreya', serif;font-size: 32px;font-weight: 400;margin-top: 20px;margin-bottom: 30px;}
+.contact-data p,td{font-family: 'Alegreya Sans', sans-serif;font-weight: 400;font-size: 17px;color: rgb(104, 104, 104);line-height: 1.6;}
+.td-space{padding-left: 20px;}
+.margin-p{margin-top: 30px;margin-bottom: 30px;} 
+
+
+/* information */
+.clear-fix{clear: both;}
+.info{background-color:rgb(64, 61, 56);padding-top: 50px;padding-bottom: 50px;padding-left: 80px;background-image: url(images/contact-details-map.png);background-repeat: no-repeat;background-position-x: 86%;background-position-y:52% ;}
+.info1{width: 22%;float: left;}
+.info2{width: 22%;float: left;}
+.info3{width: 22%;float: left;}
+.info4{width: 22%;float: left;}
+.info img{width: 10%;}
+.info li{list-style: none;}
+.info table{padding-right: 5px;}
+.info td{display: inline;}
+.info h4{font-family: 'Alegreya', serif;font-size: 18px;font-weight: 400;color:rgb(249, 246, 249);}
+.info p {font-family: 'Alegreya Sans', sans-serif;font-weight: 400;color: rgb(104, 104, 104);line-height: 1.6;}
+.info td {font-family: 'Alegreya Sans', sans-serif;font-weight: 400;color: rgb(104, 104, 104);line-height: 1.6;}
+.info a{text-decoration: none; color:rgb(104, 104, 104);}
+/* .info4 ul{background-image:url(images/contact-details-map.png);background-repeat: no-repeat;} */
+hr{height:1px;border-width:0;background-color:rgba(104, 104, 104,0.2);width: 90%;margin-left: 10px;}
+.info4 ul{background-color:rgba(64, 61, 56,0.9);}
+
+
+/* footer */
+.footer{background-color: rgb(53, 51, 48);text-align: center;padding-bottom: 50;padding-top: 50px;}
+.footer-logo{width: 50%;margin-left: 25%;margin-bottom: 30px;}
+.footer-link{width:5% ;float: left;margin-right: 10px;}
+.footer-link img{width: 100%;border:2px solid rgb(64, 61, 56) ;border-radius: 50%;background-color: rgb(64, 61, 56);}
+.footer-links{margin-left: 43%;margin-top: 30px;}
+.footer p{font-family: 'Alegreya Sans', sans-serif;font-weight: 400;font-size: 15px;color: rgb(104, 104, 104);}
+
+/* up */
+#up{margin-left: 90%;}
